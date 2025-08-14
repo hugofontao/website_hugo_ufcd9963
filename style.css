@@ -19,24 +19,13 @@ body {
 
         nav ul li {
             display: inline; 
-        }
-
-        nav ul li a {
-            color: rgb(255, 255, 255); 
-            text-decoration: none; 
-            padding: 10px 20px; 
-            background-color: #104f92; 
-        }
+        } 
         
-        .nav-li
-
-        nav ul li a:hover {
-            background-color: rgb(182, 72, 35); 
-        }
 
 p {
     font-size: 20px;
 }
+
 img {
     height: 450px;
     width: 450px;
